@@ -1,0 +1,10 @@
+jupyterlab
+scikit-learn
+azureml
+azureml.core
+azureml-dataset-runtime
+jupyterhub
+pandas
+numpy
+matplotlib
+seaborn
